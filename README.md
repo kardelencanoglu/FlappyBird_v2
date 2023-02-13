@@ -1,2 +1,4 @@
 # TappyFish!
-[tappy](https://user-images.githubusercontent.com/85257891/218555766-48fdfe19-47f0-4b80-b0e6-c154e756eecc.png)
+
+
+![tappy](https://user-images.githubusercontent.com/85257891/218555897-350a2fe5-5fa6-4f41-b3af-d163113d098e.png)
